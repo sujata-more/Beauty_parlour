@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta http-equiv="X-US-Compatiable" content="ie=edge">
+<title>Beauty and fashion </title>
+<link rel="stylesheet" href="stylee.css">
+</head>
+<body>
+<nav class="nav1">
+<div class="s-icon">
+<i class="fa fa-facebook"></i>
+<i class="fa fa-whatsapp"></i>
+<i class="fa fa-instgram"></i>
+<i class="fa fa-twitter"></i>
+</div>
+<div class="logo">
+Sujata Beauty<br>
+<span>The magical Treatment</span>
+</div>
+<div class="search">
+<i class="fa fa-search"></i>
+</div>
+</nav>
+<nav class="nav2">
+<div class="menu">
+<a href="#"><i class="fa fa-home"></i>Home</a>
+<a href="#"><i class="fa fa-lock"></i>Features</a>
+<a href="#"><i class="fa fa-check"></i>Lifestyle</a>
+<a href="#"><i class="fa fa-bus"></i>Travel</a>
+<a href="#"><i class="fa fa-book"></i>Booking</a>
+<a href="#"><i class="fa fa-phone"></i>contact</a>
+</div>
+</nav>
+<header>
+<div>
+
+<img src="https://thumbs.dreamstime.com/b/beauty-
+model-girl-fashion-manicure-make-up-35653081.jpg">
+
+<p>
+The makeup artists
+<a href="#">Read more</a>
+</p>
+</div>
+
+<div>
+
+<img src="https://cdn2.stylecraze.com/wp-
+content/uploads/2021/12/How-To-Apply-Makeup-Like-A-Pro--A-Step-By-Step-
+Tutorial.jpg">
+
+<p>
+see the many differnt makeup
+<a href="#">Read more</a>
+</p>
+</div>
+<div>
+
+<img src="https://images.unsplash.com/photo-
+1487412947147-5cebf100ffc2?ixlib=rb-
+1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmVhdXR5JTIwbWFrZXVwfGVufDB8fDB8fA%3D%3
+
+D&w=1000&q=80">
+
+<p>
+Customer experince
+<a href="#">Read more</a>
+</p>
+<i class=" fa fa-play" id="play"></i>
+</div>
+</header>
+<section id="about">
+<div class="about-row">
+<div class="about-left-col">
+<h2>Who I am</h2>
+<h1> Intresting tips and treatment</h1>
+<p>By Sujata beauty December 4,2020</p>
+
+<img src="https://jooinn.com/images/beauty-
+63.jpg">
+
+<p id="about-text">Join the Sujata Beauty. Work with
+
+the top names in fashion,beauty,<br>and wellnes.Sujata Beauty
+
+powered by Aptech helps you get there<br> in style
+
+and confidence!
+
+</p>
+<a href="#">Read more...</a>
+</div>
+<br><br><br><br>
+<a href="#">pre</a>
+<a href="#">1</a>
+<a href="#">2</a>
+<a href="#">3</a>
+<a href="#">4</a>
+<a href="#">Next</a>
+</div>
+<div class="about-right-col">
+
+<div class="aboutme">
+<h2>About me</h2>
+<p>About me<br>
+Hello! I' am sujata from Manmad ,Nashik,
+
+India.I am makeup artist.
+
+I have a 10 years experiance and
+
+Icompleted my courses with differnt certificet from Delhi
+
+</p>
+
+</div>
+<div class="aboutme">
+<h2>Follow us</h2>
+<i class="fa fa-facebook"></i>
+<i class="fa fa-whatsapp"></i>
+<i class="fa fa-instgram"></i>
+<i class="fa fa-twitter"></i>
+</div>
+<div class="aboutme">
+<h2>subscribe</h2>
+<input type="text" name=""placeholder="Enter
+
+email"><br>
+
+<input type="submit" value="Submit">
+</div>
+</div>
+</section>
+
+</body>
+</html>
